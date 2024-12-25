@@ -52,5 +52,5 @@ npm run dev
 
 Open your browser and visit http://localhost:5173 to see the application running.
 
-## NOTES
-  - Logout to View Sign In Screen UI: To view the Sign In Screen UI, simply click on the Logout button. This action will take you to the Sign In Screen as designed in the Figma file.
+## Notes
+  - **Logout to View Sign In Screen UI:** To view the Sign In Screen UI, simply click on the Logout button. This action will take you to the Sign In Screen as designed in the Figma file.
