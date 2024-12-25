@@ -35,18 +35,22 @@ git clone https://github.com/your-username/codeant-frontend-assignment.git
 
 Navigate into the project directory and install the necessary dependencies:
 
+```bash
 cd codeant-frontend-assignment
 npm install
+```
 
 ### 3. Run the Development Server
 
 After installing dependencies, start the development server:
 
+```bash
 npm run dev
+```
 
 ### 4. View the Project
 
 Open your browser and visit http://localhost:5173 to see the application running.
 
 ## NOTES
-    - Logout to View Sign In Screen UI: To view the Sign In Screen UI, simply click on the Logout button. This action will take you to the Sign In Screen as designed in the Figma file.
+  - Logout to View Sign In Screen UI: To view the Sign In Screen UI, simply click on the Logout button. This action will take you to the Sign In Screen as designed in the Figma file.
